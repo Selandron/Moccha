@@ -1,0 +1,29 @@
+
+
+  Array
+    #indexOf()
+      √ should return -1 when the value is not present
+
+  Pair
+    √ Devrait retourner vrai car 2 est pair
+    √ Devrait retourner faux car 1 est impair
+    √ Devrait retourner faux car 51161 est impair
+    √ Devrait retourner vrai car 0 est pair
+    √ Devrait retourner faux 
+    √ Devrait lancer une erreur car aaa n'est pas un integer
+
+  Concatene
+    √ Devrait faire la bonne chaine : 'Bonjour, test'
+
+  Secu
+    √ Test avec un numéro de sécurité valide
+    √ Test avec un numéro de sécurité trop court
+    √ Test avec un numéro de sécurité invalide
+
+  RIB
+74
+    √ Test avec un numéro de sécurité valide
+
+
+  12 passing (8ms)
+
