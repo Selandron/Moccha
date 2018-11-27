@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.002" tests="13" failures="0">
+  <testsuite name="Root Suite" timestamp="2018-11-27T15:18:01" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Array" timestamp="2018-11-27T15:18:01" tests="0" file="C:\Users\asl\Documents\Qualité logicielle\TP2\test\test.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="#indexOf()" timestamp="2018-11-27T15:18:01" tests="1" file="C:\Users\asl\Documents\Qualité logicielle\TP2\test\test.js" failures="0" time="0.001">
+    <testcase name="Array #indexOf() should return -1 when the value is not present" time="0.001" classname="should return -1 when the value is not present">
+    </testcase>
+  </testsuite>
+  <testsuite name="Pair" timestamp="2018-11-27T15:18:01" tests="6" file="C:\Users\asl\Documents\Qualité logicielle\TP2\test\test.js" failures="0" time="0">
+    <testcase name="Pair Devrait retourner vrai car 2 est pair" time="0" classname="Devrait retourner vrai car 2 est pair">
+    </testcase>
+    <testcase name="Pair Devrait retourner faux car 1 est impair" time="0" classname="Devrait retourner faux car 1 est impair">
+    </testcase>
+    <testcase name="Pair Devrait retourner faux car 51161 est impair" time="0" classname="Devrait retourner faux car 51161 est impair">
+    </testcase>
+    <testcase name="Pair Devrait retourner vrai car 0 est pair" time="0" classname="Devrait retourner vrai car 0 est pair">
+    </testcase>
+    <testcase name="Pair Devrait retourner faux " time="0" classname="Devrait retourner faux ">
+    </testcase>
+    <testcase name="Pair Devrait lancer une erreur car aaa n&apos;est pas un integer" time="0" classname="Devrait lancer une erreur car aaa n&apos;est pas un integer">
+    </testcase>
+  </testsuite>
+  <testsuite name="Concatene" timestamp="2018-11-27T15:18:01" tests="1" file="C:\Users\asl\Documents\Qualité logicielle\TP2\test\test.js" failures="0" time="0">
+    <testcase name="Concatene Devrait faire la bonne chaine : &apos;Bonjour, test&apos;" time="0" classname="Devrait faire la bonne chaine : &apos;Bonjour, test&apos;">
+    </testcase>
+  </testsuite>
+  <testsuite name="Secu" timestamp="2018-11-27T15:18:01" tests="3" file="C:\Users\asl\Documents\Qualité logicielle\TP2\test\test.js" failures="0" time="0">
+    <testcase name="Secu Test avec un numéro de sécurité valide" time="0" classname="Test avec un numéro de sécurité valide">
+    </testcase>
+    <testcase name="Secu Test avec un numéro de sécurité trop court" time="0" classname="Test avec un numéro de sécurité trop court">
+    </testcase>
+    <testcase name="Secu Test avec un numéro de sécurité invalide" time="0" classname="Test avec un numéro de sécurité invalide">
+    </testcase>
+  </testsuite>
+  <testsuite name="RIB" timestamp="2018-11-27T15:18:01" tests="2" file="C:\Users\asl\Documents\Qualité logicielle\TP2\test\test.js" failures="0" time="0.001">
+    <testcase name="RIB Test avec un numéro de sécurité valide" time="0.001" classname="Test avec un numéro de sécurité valide">
+    </testcase>
+    <testcase name="RIB Test avec un numéro de sécurité valide" time="0" classname="Test avec un numéro de sécurité valide">
+    </testcase>
+  </testsuite>
+</testsuites>

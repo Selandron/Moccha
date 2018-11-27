@@ -5,6 +5,7 @@
     "grunt-contrib-uglify": "^4.0.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-mocha-test": "^0.13.3",
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "mocha-junit-reporter": "^1.18.0"
   }
 }
