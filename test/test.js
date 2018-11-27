@@ -57,7 +57,7 @@ describe('Secu', function() {
 describe('RIB', function() {
 	it("Test avec un numéro de sécurité valide", function() {
 		assert.isOk(rib("GB87B", "ARC20", "65824497165", 74));
-	});
+	}); 
 	it("Test avec un numéro de sécurité valide", function() {
 		assert.isOk(rib("11111", "22222", "ABCD333EFG", 42));
 	});
